@@ -1,0 +1,7 @@
+ipywidgets==7.7.1
+matplotlib
+numpy
+tqdm==4.64.0
+scikit-image
+scipy
+polyscope
